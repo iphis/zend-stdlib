@@ -39,6 +39,7 @@
     },
     "extra": {
         "branch-alias": {
+            "dev-php73": "2.7.7",
             "dev-master": "3.2.x-dev",
             "dev-develop": "3.3.x-dev"
         }
